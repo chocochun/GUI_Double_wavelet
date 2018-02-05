@@ -1,0 +1,4 @@
+SubjectID,ROIname,SpatialWavelet,TemporalWavelet,Stimulus1,Stimulus2,Stimulus3
+105_1,roi1,db3,sym8,496.4904,500.9525,998.287
+106_1,roi1,db3,sym8,505.378,512.6262,1019.4713
+107_1,roi1,db3,sym8,558.7341,565.5832,1120.4483
